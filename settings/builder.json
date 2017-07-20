@@ -1,0 +1,27 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "cn.ninthart.hhmj",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "d092d418-dcdd-4823-a232-eca65fe76fff",
+  "title": "SCMJ",
+  "webOrientation": "landscape",
+  "includeSDKBox": false,
+  "inlineSpriteFrames_native": true,
+  "optimizeHotUpdate": false
+}

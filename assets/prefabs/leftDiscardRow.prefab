@@ -1,0 +1,116 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "leftDiscardRow2",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_tag": -1,
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 3
+    },
+    "_id": "",
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 0,
+      "height": 0
+    },
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_scaleX": 1,
+    "_scaleY": 1,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": -173,
+      "y": 112
+    },
+    "_skewX": -1.5,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_opacityModifyRGB": false,
+    "groupIndex": 0
+  },
+  {
+    "__type__": "853acS23YlNAaA3veMfPZMf",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "test": false,
+    "direction": 1,
+    "tileTexture": {
+      "__uuid__": "008ffed3-6755-4a0c-bcbf-ee5c6538066f"
+    },
+    "tileCount": 8,
+    "tileText": {
+      "__uuid__": "def3f6cb-b7bc-41ad-b3c0-988f77993c1e"
+    },
+    "textPos": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 8
+    },
+    "textRotation": 90,
+    "textSkew": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": -4
+    },
+    "textScale": {
+      "__type__": "cc.Vec2",
+      "x": 0.31,
+      "y": 0.42
+    },
+    "tileStep": {
+      "__type__": "cc.Vec2",
+      "x": -1.5,
+      "y": -25
+    },
+    "tilePrefab": {
+      "__uuid__": "ac948bd2-818f-4b67-922e-e48a1c5d9d11"
+    }
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "9c7b3660-5f54-4b1f-b8ce-2b83459719b2"
+    },
+    "fileId": "793c3piVghH65v8EpwqMNzh",
+    "sync": false
+  }
+]
